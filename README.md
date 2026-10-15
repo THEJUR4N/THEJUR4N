@@ -1,4 +1,4 @@
-# THEJUR4N | Software Developer in Progress
+# THEJUR4N | Software Developer in Progress.
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-BUILDING_MY_FUTURE-00D9FF?style=for-the-badge&labelColor=080B10" alt="Building my future" />
