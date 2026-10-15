@@ -1,6 +1,10 @@
 # THEJUR4N | Software Developer in Progress.
 
 <p align="center">
+  <img src="assets/terminal.svg" alt="THEJUR4N animated cyan developer terminal" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-BUILDING_MY_FUTURE-00D9FF?style=for-the-badge&labelColor=080B10" alt="Building my future" />
 </p>
 
